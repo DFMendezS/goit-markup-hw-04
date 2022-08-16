@@ -1,0 +1,525 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  width: 1600px;
+}
+
+body,
+.linkthrou,
+.directory {
+  color: #212121;
+}
+
+header a,
+address a,
+address p {
+  font-style: normal;
+  text-decoration: none;
+}
+
+.logo {
+  font-family: "Raleway", sans-serif;
+}
+
+h1 {
+  font-weight: 900;
+  font-size: 44px;
+}
+
+.btservice,
+.tl,
+h2,
+.camname,
+.logo,
+.findus span {
+  font-weight: 700;
+}
+
+.linkthrou,
+header > div,
+.name,
+.directory {
+  font-weight: 500;
+}
+
+.ds,
+.branch,
+address p,
+.footercontact,
+.branch p {
+  font-weight: 400;
+}
+
+.logo:hover,
+.logo:focus {
+  color: blueviolet;
+}
+
+.linkthrou:hover,
+.mail a:hover,
+.phone a:hover,
+.footercontact:hover,
+.linkthrou:focus,
+.mail a:focus,
+.phone a:focus,
+.logo,
+.btservice:hover,
+.btservice:focus {
+  color: #2196f3;
+  fill: #2196f3;
+}
+
+.btservice:hover,
+.btservice:focus,
+.team {
+  background-color: #fff;
+}
+
+.mail a,
+.phone a,
+.ds,
+.branch,
+.category {
+  color: #757575;
+  fill: #757575;
+}
+
+footer {
+  background-color: #2f303a;
+}
+
+h1,
+.btservice,
+address p,
+.directory button:hover,
+.directory button:focus,
+.findus span {
+  color: #fff;
+}
+
+.btservice {
+  border-style: none;
+  padding: 10px 2px;
+  height: 50px;
+  width: 200px;
+}
+
+.category,
+.btservice {
+  line-height: 1.88;
+}
+
+.directory button,
+.btservice,
+.clientsicon div,
+.clientsicon div:hover {
+  font-family: "Roboto", sans-serif;
+  border-radius: 4px;
+}
+
+.footercontact {
+  color: #ffffff99;
+}
+
+.logo {
+  font-size: 26px;
+}
+
+.linkthrou,
+.mail a,
+.phone a,
+.tl,
+.ds,
+address p,
+.footercontact,
+.findus span {
+  font-size: 14px;
+}
+
+.btservice,
+.name,
+.branch,
+.directory button,
+.category {
+  font-size: 16px;
+}
+
+h2 {
+  font-size: 36px;
+}
+
+.camname {
+  font-size: 18px;
+}
+
+header nav,
+.mail a,
+.phone a,
+.tl,
+h2,
+.name,
+.branch,
+.logo,
+.findus span,
+.clients h2 {
+  line-height: 1.17;
+}
+
+h1 {
+  line-height: 1.36;
+}
+
+.ds,
+address p,
+.footercontact {
+  line-height: 1.71;
+}
+
+.branch {
+  line-height: 2;
+}
+
+.btservice,
+.directory button,
+.icon-mail,
+.icon-phone,
+.icon-instagram,
+.icon-facebook,
+.icon-linkedin,
+.icon-twitter,
+.icon-logo01,
+.icon-logo02,
+.icon-logo03,
+.icon-logo04,
+.icon-logo05,
+.icon-logo06,
+.ourteamicons a:hover,
+.footericons a:hover,
+.clientsicon div,
+.clientsicon div:hover {
+  cursor: pointer;
+}
+
+.directory button {
+  line-height: 1.63;
+  border: none;
+}
+
+.directory button,
+.ourteam,
+.txticon {
+  background-color: #f5f4fa;
+}
+
+.directory button:hover,
+.directory button:focus,
+.btservice,
+.ourteamicons a:hover,
+.footericons a:hover {
+  background-color: #2196f3;
+}
+
+header {
+  box-sizing: content-box;
+  border-bottom: 1px solid #ececec;
+}
+
+main,
+header,
+header nav,
+.headercontact,
+.ourb,
+.ourbing,
+.ourteam,
+.ourteaminfo,
+.section,
+.footercontact,
+.proyect,
+.container,
+.hsolutions,
+.txtorg,
+.mail a,
+.phone a,
+.txticon,
+.ourteamicons,
+.clients,
+.clientsicon,
+footer,
+.findus,
+.footericons,
+.ourteamicons a,
+.ourteamicons a:hover,
+.footericons a,
+.footericons a:hover,
+.clientsicon div,
+.clientsicon div:hover {
+  display: flex;
+}
+
+header,
+header nav,
+.headercontact,
+.ourbing,
+.ourteaminfo,
+.proyect,
+.mail a,
+.phone a,
+.txtorg,
+.clientsicon,
+.footericons {
+  justify-content: space-between;
+}
+
+header nav {
+  width: 531px;
+  padding: 24px 0px 25px 215px;
+}
+
+header nav,
+.headercontact {
+  box-sizing: inherit;
+}
+
+main,
+header nav,
+.headercontact,
+.section,
+.container,
+.hsolutions,
+.ourb,
+.phone a,
+.mail a,
+.clients,
+footer,
+.ourteamicons a,
+.ourteamicons a:hover,
+.footericons a,
+.footericons a:hover,
+.clientsicon div,
+.clientsicon div:hover {
+  align-items: center;
+}
+
+.headercontact {
+  width: 329px;
+  padding-right: 219px;
+}
+
+.hsolutions,
+.ourb,
+.ourbing,
+.ourteam,
+.ourteaminfo,
+.section,
+.proyect,
+.clients,
+.clientsicon {
+  width: 100%;
+}
+
+main,
+.ourb,
+.section,
+.container,
+.hsolutions,
+.clients,
+.findus {
+  flex-direction: column;
+}
+
+.container {
+  width: 1200px;
+}
+
+.ourteam {
+  padding: 94px 0px;
+}
+
+h1 {
+  margin-bottom: 30px;
+}
+
+.section {
+  padding: 94px 0px;
+}
+
+address {
+  padding: 60px 70px 60px 215px;
+}
+
+.hsolutions {
+  background: url("../images/bgimg.jpg"), rgba(47, 48, 58, 0.4);
+  padding: 200px 0px;
+  margin-top: 16px;
+}
+.txtorg {
+  margin: 78px 0px 80px 0px;
+}
+.txtsection {
+  width: 22.5%;
+}
+.tl {
+  padding: 30px 0px 10px 0px;
+}
+.ourteam h2,
+.directory,
+.ourb h2,
+.clients h2 {
+  padding-bottom: 50px;
+}
+.name,
+.branch,
+h1 {
+  text-align: center;
+}
+.data {
+  padding: 30px 0px 0px;
+}
+.name {
+  padding-bottom: 10px;
+}
+address > .linkthrou {
+  padding-bottom: 9px;
+}
+address p {
+  padding-bottom: 5px;
+}
+.directory button {
+  padding: 6px 24px;
+}
+.proyect {
+  flex-wrap: wrap;
+}
+.datateam {
+  padding: 20px 24px;
+}
+.branch {
+  padding-bottom: 4px;
+}
+.row1,
+.row2,
+.row3 {
+  border: 1px solid #eee;
+}
+
+.row1,
+.row2 {
+  margin-bottom: 30px;
+}
+.team {
+  box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14),
+    0px 2px 1px rgba(0, 0, 0, 0.2);
+  border-radius: 0px 0px 4px 4px;
+}
+.row1:hover,
+.row2:hover,
+.row3:hover {
+  box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.12), 0px 4px 4px rgba(0, 0, 0, 0.06),
+    1px 4px 6px rgba(0, 0, 0, 0.16);
+}
+.directory button:hover,
+.directory button:focus {
+  box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 1px 2px rgba(0, 0, 0, 0.08),
+    0px 2px 2px rgba(0, 0, 0, 0.12);
+}
+.icon-mail {
+  width: 16px;
+  height: 12px;
+}
+.icon-phone {
+  width: 10px;
+  height: 16px;
+}
+.mail a {
+  width: 161px;
+}
+.phone a {
+  width: 138px;
+}
+.icon-antena,
+.icon-reloj,
+.icon-diagrama,
+.icon-astronauta {
+  width: 70px;
+  height: 70px;
+}
+.ourb {
+  margin-bottom: 94px;
+}
+.ourteamicons {
+  padding-top: 16px;
+  padding-bottom: 30px;
+  justify-content: space-around;
+}
+.icon-instagram,
+.icon-facebook,
+.icon-twitter,
+.icon-linkedin {
+  width: 20px;
+  height: 20px;
+}
+.icon-logo01,
+.icon-logo02,
+.icon-logo03,
+.icon-logo04,
+.icon-logo05,
+.icon-logo06 {
+  width: 106px;
+  height: 60px;
+}
+.findus {
+  width: 206px;
+  padding: 72px 0px 100px 0px;
+}
+.findus span {
+  padding-bottom: 20px;
+}
+.ourteamicons a,
+.ourteamicons a:hover,
+.footericons a,
+.footericons a:hover {
+  width: 44px;
+  height: 44px;
+}
+
+.ourteamicons a:hover,
+.footericons a,
+.footericons a:hover {
+  border-radius: 50%;
+  fill: #fff;
+}
+.footericons a {
+  background-color: #ffffff1a;
+}
+.clientsicon div {
+  width: 170px;
+  height: 92px;
+  border: 1px solid #afb1b8;
+}
+.clientsicon div:hover {
+  width: 170px;
+  height: 92px;
+  border: 1px solid #2196f3;
+  fill: #2196f3;
+}
+.clientsicon div:hover,
+.ourteam,
+.ourteamicons a,
+.ourteamicons a:hover,
+.footericons a,
+.txticon,
+.footericons a:hover,
+.clientsicon div {
+  justify-content: center;
+}
+.clientsicon div,
+.ourteamicons a {
+  fill: #afb1b8;
+}
+.txticon {
+  padding: 25px 0px;
+}
